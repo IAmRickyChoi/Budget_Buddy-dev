@@ -1,0 +1,10 @@
+{
+  "@@locale": "ko",
+  "appTitle": "Budget Buddy",
+  "tabTransactions": "내역",
+  "tabReports": "통계",
+  "tabBudgets": "예산",
+  "tabSettings": "설정",
+  "addTransaction": "거래 추가",
+  "comingSoon": "준비 중이에요"
+}
