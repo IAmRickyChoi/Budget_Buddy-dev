@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "appTitle": "Budget Buddy",
+  "tabTransactions": "Transactions",
+  "tabReports": "Reports",
+  "tabBudgets": "Budgets",
+  "tabSettings": "Settings",
+  "addTransaction": "Add transaction",
+  "comingSoon": "Coming soon"
+}

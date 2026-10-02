@@ -1,0 +1,10 @@
+{
+  "@@locale": "ja",
+  "appTitle": "Budget Buddy",
+  "tabTransactions": "履歴",
+  "tabReports": "統計",
+  "tabBudgets": "予算",
+  "tabSettings": "設定",
+  "addTransaction": "取引を追加",
+  "comingSoon": "準備中です"
+}
