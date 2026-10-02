@@ -29,4 +29,79 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get comingSoon => 'Coming soon';
+
+  @override
+  String get expense => 'Expense';
+
+  @override
+  String get income => 'Income';
+
+  @override
+  String get balance => 'Balance';
+
+  @override
+  String get amount => 'Amount';
+
+  @override
+  String get invalidAmount => 'Enter a valid amount';
+
+  @override
+  String get category => 'Category';
+
+  @override
+  String get uncategorized => 'Uncategorized';
+
+  @override
+  String get date => 'Date';
+
+  @override
+  String get note => 'Note';
+
+  @override
+  String get save => 'Save';
+
+  @override
+  String get saveFailed => 'Couldn\'t save. Please try again.';
+
+  @override
+  String get noTransactions => 'No transactions this month';
+
+  @override
+  String get previousMonth => 'Previous month';
+
+  @override
+  String get nextMonth => 'Next month';
+
+  @override
+  String get transactionDeleted => 'Transaction deleted';
+
+  @override
+  String get categoryFood => 'Food';
+
+  @override
+  String get categoryCafe => 'Cafe';
+
+  @override
+  String get categoryTransport => 'Transport';
+
+  @override
+  String get categoryShopping => 'Shopping';
+
+  @override
+  String get categoryHousing => 'Housing';
+
+  @override
+  String get categoryHealth => 'Health';
+
+  @override
+  String get categoryEntertainment => 'Entertainment';
+
+  @override
+  String get categoryOther => 'Other';
+
+  @override
+  String get categorySalary => 'Salary';
+
+  @override
+  String get categoryBonus => 'Bonus';
 }
